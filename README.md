@@ -4,5 +4,4 @@
                 |<[{(* _ *)}]>|
         |<[{(* _ *)}]>| |<[{(* _ *)}]>|
 |<[{(* _ *)}]>|                 |<[{(* _ *)}]>|
-wirehead's mission is to automate entertainment
-```
+wirehead will learn to create & simulate desire
